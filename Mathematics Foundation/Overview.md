@@ -44,7 +44,7 @@ Welcome to the **Mathematics Foundation** repository! 🎓 This space is dedicat
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/mathematics-foundation.git
+   git clone https://github.com/Md-Shahid-S/mathematics-foundation.git
    ```
 2. Explore the topics by navigating to their respective folders.
 3. Use the documentation to supplement your studies or prepare for exams.
