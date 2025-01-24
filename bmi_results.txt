@@ -1,0 +1,28 @@
+------------------------------
+Name: shahid 
+Weight: 71.0 kg
+Height: 175.0 cm
+BMI: 23.18
+Category: You're Classified as NORMAL
+------------------------------
+------------------------------
+Name: younoos 
+Weight: 40.0 kg
+Height: 160.0 cm
+BMI: 15.62
+Category: You're Classified as UNDERWEIGHT
+------------------------------
+------------------------------
+Name: irfan 
+Weight: 45.0 kg
+Height: 155.0 cm
+BMI: 18.73
+Category: You're Classified as NORMAL
+------------------------------
+------------------------------
+Name: Fareed 
+Weight: 56.0 kg
+Height: 170.0 cm
+BMI: 19.38
+Category: You're Classified as NORMAL
+------------------------------
