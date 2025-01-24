@@ -26,3 +26,10 @@ Height: 170.0 cm
 BMI: 19.38
 Category: You're Classified as NORMAL
 ------------------------------
+------------------------------
+Name: musthak 
+Weight: 75.0 kg
+Height: 165.0 cm
+BMI: 27.55
+Category: You're Classified as OVERWEIGHT
+------------------------------
