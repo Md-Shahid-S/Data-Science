@@ -33,3 +33,10 @@ Height: 165.0 cm
 BMI: 27.55
 Category: You're Classified as OVERWEIGHT
 ------------------------------
+------------------------------
+Name: Mijn Schatara 
+Weight: 37.0 kg
+Height: 155.0 cm
+BMI: 15.40
+Category: You're Classified as UNDERWEIGHT
+------------------------------
